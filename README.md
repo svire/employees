@@ -17,5 +17,5 @@ In the project directory, you can run:
 
 ![](src/assets/images/update.png)
 
-![](src/assets/images/masterPage.png)
+![](src/assets/images/materPage.png)
  
