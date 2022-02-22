@@ -12,4 +12,10 @@ In the project directory, you can run:
 
 
 ![](src/assets/images/addnew.png)
+
+![](src/assets/images/error.png)
+
+![](src/assets/images/update.png)
+
+![](src/assets/images/masterPage.png)
  
