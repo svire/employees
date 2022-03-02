@@ -55,38 +55,3 @@ const Wrapper = styled.div`
 `;
 
 export default Home;
-
-/*
- <p>ADD/UPDATE FORMS ---> FORMIK, YUP </p>
-      <p>SHOW EMPLOYEES --->FORMIK TABLE </p>
-      <h3>HOW TO UPDATE EMPLOYEE?</h3>
-      <div className='img-frame'>
-        <img className='img-div' src={image} alt='updateHow' />
-      </div>
-      <h3>PAGINATION</h3>
-
-      <div className='img-frame'>
-        <img className='img-div' src={materPage} alt='pagination-info' />
-      </div>s
-
-      const odsviraj = (taj) => {
-    //employees: state.regularEmployees.employees.map((employee, id) =>
-    //      id === payload.values._id ? {employee: payload.value} : employee
-    let nizmodes = nizovi;
-    //   ),
-    let id = taj.id;
-    alert(id);
-
-    //let indexi = nizmodes.findIndex((emp) => emp.id === taj.id);
-    //alert(indexi);
-    const newArr = nizmodes.map((emp) => {
-      if (emp.id === taj.id) {
-        return {...emp, ...taj};
-      } else {
-        return {...emp};
-      }
-    });
-
-    console.log(newArr);
-  };
-*/
